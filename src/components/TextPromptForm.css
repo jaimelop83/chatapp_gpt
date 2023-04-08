@@ -1,0 +1,25 @@
+/* TextPromptForm.css */
+
+.text-prompt {
+    width: 100%;
+    height: 150px;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  .submit-button {
+    background-color: #fca311;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .submit-button:hover {
+    background-color: #e85a4f;
+  }
+  
